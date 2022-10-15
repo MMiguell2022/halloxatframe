@@ -60,6 +60,13 @@ canvas{
     transform:translateX(-400%);
     animation:move 50s linear infinite;
 }
+.jd__cloud5{
+    width:350px;
+    top:300px;
+    left:0;
+    transform:translateX(-400%);
+    animation:move 25s linear infinite;
+}
 .jd__cloud6{
     width:350px;
     top:300px;
