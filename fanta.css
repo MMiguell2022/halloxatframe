@@ -10,9 +10,9 @@
     height: 80%;
     animation: floaty 2s infinite;
 
-    animation: floaty2 10s infinite;
+    animation: floaty2 20s infinite;
     position: absolute;
-    top: calc(50%);
+    top: calc(40%);
     margin-left: calc(10%);
 
 }
