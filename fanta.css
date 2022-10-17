@@ -21,7 +21,7 @@
         opacity: calc(0);
     }
     50%{
-        opacity: calc(100%);
+        opacity: calc(60%);
     }
     100%{
         opacity: calc(0);
